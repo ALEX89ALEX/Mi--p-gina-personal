@@ -1,2 +1,2 @@
-# Mi--p-gina-personal
+# Mi-pagina-personal
 Mi blog
